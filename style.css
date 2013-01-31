@@ -3,7 +3,7 @@ html {
     padding:10px;
     margin:0 auto;
     background-color:#d1d1d1;
-    font-family:"Roboto", serif;
+    font-family:"Roboto", sans-serif;
     font-size:11pt;
     color:#3b3b3b;
 }
@@ -22,19 +22,16 @@ h3 {
     color:#fff;
     text-align:center;
     width:200px;
-    height:100%;
     margin:-10px 0 10px -10px;
 }
 section {
-    overflow:auto;
     background-color:#fff;
     margin:20px 0;
     padding:10px;
+    overflow:auto;
 }
 .map {
     border:1px solid #888888;
-    text-align:center:
-    margin:10px;
     float:right;
 }
 .logo {
