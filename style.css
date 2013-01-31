@@ -10,6 +10,9 @@ html {
 h1, h2, h3, h4, p {
     margin:0;
 }
+a {
+    color:#3a93db;
+}
 h1, h2, h3 {
     font-weight:normal;
     font-family:"Chau Philomene One", sans-serif;
